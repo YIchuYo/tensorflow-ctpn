@@ -1,0 +1,1 @@
+参考https://github.com/eragonruan/text-detection-ctpn
